@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const http = axios.create({
-    baseURL: "http://localhost:9000"
+    baseURL: "matchasmarketplacedb-production.up.railway.app"
 });
 
 export default {
