@@ -17,6 +17,7 @@ export default {
         flex-direction: column;
         align-items: center;
         padding-top: 20px;
+        background-color: black;
     }
     .top-block img {
         width: 200px;

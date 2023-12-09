@@ -43,6 +43,7 @@ export default {
     display: flex;
     justify-content: space-between;
     padding: 20px;
+    background-color: black;
 }
 
 .left-pane button {

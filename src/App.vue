@@ -22,7 +22,7 @@ import SiteFooter from './components/SiteFooter.vue';
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: black;
+  /* background-color: black; */
 }
 
 </style>

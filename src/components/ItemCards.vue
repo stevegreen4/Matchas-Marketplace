@@ -47,11 +47,15 @@ export default {
 </script>
 
 <style>
+body {
+    background-color: black;
+}
 .card-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 40px;
+    margin-bottom: 10px;
 }
 
 .single-card {

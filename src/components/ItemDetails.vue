@@ -45,6 +45,7 @@ export default {
         align-items: center;
         padding: 20px;
         color: white;
+        background-color: black;
     }
 
     .individual-name {
