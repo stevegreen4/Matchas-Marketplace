@@ -35,6 +35,7 @@ img {
     align-items: center;
     padding: 10px;
     border-bottom: 1px solid white;
+    
 }
 .right {
     display: flex;

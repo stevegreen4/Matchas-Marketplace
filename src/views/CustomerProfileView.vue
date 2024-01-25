@@ -1,6 +1,6 @@
 <template>
-    <div>
-        profile info goes here
+    <div class="login">
+        Login functinality coming soon!
     </div>
 </template>
 
@@ -11,5 +11,11 @@ export default {
 </script>
 
 <style>
-    
+    .login {
+        color: white;
+        font-size: 40px;
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+    }
 </style>
