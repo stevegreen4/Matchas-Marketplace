@@ -2,7 +2,6 @@
   <div class="about">
     <h1>This is Matcha!</h1>
     <p>
-      <br>
       Matcha enjoys playing with strings, scratching couches, eating salmon, and watching football. She is afraid of strangers, but 
       once she warms up to you, will rub on your legs until she gets attention.
       <br>
@@ -32,8 +31,10 @@ export default {
 }
 h1 {
   font-size: 45px;
+  padding-left: 20px;
 }
 p {
   font-size: 20px;
+  padding: 20px;
 }
 </style>
