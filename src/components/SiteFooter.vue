@@ -3,7 +3,7 @@
         <div class="img-title">
             <img src="../assets/images/cat-paw.png" alt="paw">
             <h3>
-                Matcha's Marketplace
+                Matcha's Market
             </h3>
         </div>
         <h5>
